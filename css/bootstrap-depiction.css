@@ -33,6 +33,7 @@
 .hrstyle {
 	width: 98%;
 	background-color: gray; height: 1px; border: 0;
+	margin-left: 1%;
 }
 .version {
 	padding-left: 10px;
