@@ -1,0 +1,63 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tintColor": "#f895c2",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Description",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "title": "Tweak Description Here"
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Features",
+        "views": [
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Feature 1 \r\n- Feature 2 \r\n- Feature 3 \r\n- Feature 4 \r\n- Feature 5 \r\n- Feature 6 \r\n- Feature 7 \r\n- Feature 8"
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Changelog",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.0.0.2 (06/03/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Edit this and the version/date above"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.0.0.1 (06/03/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Edit this and the version/date above \r\n- Second point"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+		  {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.0.0.0 (06/01/2021)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Edit this and the version/date above \r\n- Second point \r\n- Third point"
+          },
+        ],
+      }
+    ]
+  }
