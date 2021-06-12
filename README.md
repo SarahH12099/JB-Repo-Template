@@ -1,8 +1,5 @@
 # JB-Repo-Template
-I will add stuff to this in a few minutes
-Please don't use this yet, it is still being worked on
-
-<br>
-To use the depictions in your packages add them to your control file like so:
-Depiction: https://sarahh12099.github.io/repo/depictions/youtubeoleddarkmode.html
-SileoDepiction: https://sarahh12099.github.io/sileodepictions/net.sarahh12099.youtubeoleddarkmode/depiction.json
+My modern jb repo template, includes web depicitons, modern depictions, zstd/gz/bz2 compressed packages script, packages file gen, release file md5 and sha256 gen, add repo buttons and more.<br><br>
+To use the depictions in your packages add them to your control file like so:<br>
+Depiction: https://urltoyourwebdepiction.html<br>
+SileoDepiction: https://urltoyoursileodepictiondepiction.json
