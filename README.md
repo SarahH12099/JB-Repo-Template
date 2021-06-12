@@ -1,5 +1,5 @@
 # JB-Repo-Template
-My modern jb repo template, includes web depicitons, modern depictions, zstd/gz/bz2 compressed packages script, packages file gen, release file md5 and sha256 gen, add repo buttons and more.<br><br>
+My modern jb repo template, includes web depictions, modern depictions, zstd/gz/bz2 compressed packages script, packages file gen, release file md5 and sha256 gen, add repo buttons and more.<br><br>
 You will need to run dos2unix on the repo.sh file to convert it to unix cause GitHub uploads it as dos. (dos2unix repo.sh)<br><br>
 How to use: cd into your repo directory on linux or macos or wsl 2 and run ./repo.sh, it will say "Done" once it is complete. <br><br>
 What the web depictions look like (Cydia, Zebra, Installer):<br>
